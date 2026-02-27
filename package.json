@@ -1,0 +1,11 @@
+{
+  "name": "red-bio-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pagina de cartao de visita gamer para link da bio",
+  "scripts": {
+    "lint": "node scripts/lint.mjs",
+    "typecheck": "node scripts/typecheck.mjs",
+    "test": "node scripts/test.mjs"
+  }
+}
